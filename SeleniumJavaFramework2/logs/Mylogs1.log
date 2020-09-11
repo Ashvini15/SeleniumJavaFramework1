@@ -1,0 +1,17 @@
+[INFO ] 2020-09-11 22:13:35.953 [main] Log4jDemo - This is Information
+[ERROR] 2020-09-11 22:13:35.967 [main] Log4jDemo - This is Error
+[WARN ] 2020-09-11 22:13:35.968 [main] Log4jDemo - This is Warning
+[FATAL] 2020-09-11 22:13:35.969 [main] Log4jDemo - This is Fatal  Message
+[INFO ] 2020-09-11 22:14:58.315 [main] Log4jDemo - This is Information
+[ERROR] 2020-09-11 22:14:58.334 [main] Log4jDemo - This is Error
+[WARN ] 2020-09-11 22:14:58.335 [main] Log4jDemo - This is Warning
+[FATAL] 2020-09-11 22:14:58.335 [main] Log4jDemo - This is Fatal  Message
+[INFO ] 2020-09-11 22:15:50.216 [main] Log4jDemo - This is Information
+[ERROR] 2020-09-11 22:15:50.231 [main] Log4jDemo - This is Error
+[WARN ] 2020-09-11 22:15:50.232 [main] Log4jDemo - This is Warning
+[FATAL] 2020-09-11 22:15:50.235 [main] Log4jDemo - This is Fatal  Message
+[TRACE] 2020-09-11 22:17:22.620 [main] Log4jDemo - This is Trace
+[INFO ] 2020-09-11 22:17:22.637 [main] Log4jDemo - This is Information
+[ERROR] 2020-09-11 22:17:22.638 [main] Log4jDemo - This is Error
+[WARN ] 2020-09-11 22:17:22.638 [main] Log4jDemo - This is Warning
+[FATAL] 2020-09-11 22:17:22.639 [main] Log4jDemo - This is Fatal  Message
